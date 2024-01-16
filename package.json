@@ -1,0 +1,18 @@
+{
+  "name": "smartcontract-unittests",
+  "version": "1.0.0",
+  "description": "A Project that Covers Testing in Smart Contracts: Using Hardhat and Testing Libraries like Chai Asserts, ChaiJs, Mocha etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abraham Elijah",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
